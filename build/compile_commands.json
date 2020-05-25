@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/gifritz/Desktop/CMakeTutorial/Test/build/hello-exe",
+  "command": "/bin/g++-9   -I/home/gifritz/Desktop/CMakeTutorial/Test/say-hello/src  -g   -o CMakeFiles/cmake-good.dir/main.cpp.o -c /home/gifritz/Desktop/CMakeTutorial/Test/hello-exe/main.cpp",
+  "file": "/home/gifritz/Desktop/CMakeTutorial/Test/hello-exe/main.cpp"
+},
+{
+  "directory": "/home/gifritz/Desktop/CMakeTutorial/Test/build/say-hello",
+  "command": "/bin/g++-9   -I/home/gifritz/Desktop/CMakeTutorial/Test/say-hello/src  -g   -o CMakeFiles/say-hello.dir/src/say-hello/hello.cpp.o -c /home/gifritz/Desktop/CMakeTutorial/Test/say-hello/src/say-hello/hello.cpp",
+  "file": "/home/gifritz/Desktop/CMakeTutorial/Test/say-hello/src/say-hello/hello.cpp"
+}
+]

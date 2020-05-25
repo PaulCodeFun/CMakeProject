@@ -1,0 +1,8 @@
+/home/gifritz/Desktop/CMakeTutorial/Test/build/CMakeFiles/rebuild_cache.dir
+/home/gifritz/Desktop/CMakeTutorial/Test/build/CMakeFiles/edit_cache.dir
+/home/gifritz/Desktop/CMakeTutorial/Test/build/hello-exe/CMakeFiles/rebuild_cache.dir
+/home/gifritz/Desktop/CMakeTutorial/Test/build/hello-exe/CMakeFiles/edit_cache.dir
+/home/gifritz/Desktop/CMakeTutorial/Test/build/hello-exe/CMakeFiles/cmake-good.dir
+/home/gifritz/Desktop/CMakeTutorial/Test/build/say-hello/CMakeFiles/edit_cache.dir
+/home/gifritz/Desktop/CMakeTutorial/Test/build/say-hello/CMakeFiles/rebuild_cache.dir
+/home/gifritz/Desktop/CMakeTutorial/Test/build/say-hello/CMakeFiles/say-hello.dir
